@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206488291553",
+    "firebase_url": "https://imedicine-box-ad374-default-rtdb.firebaseio.com",
+    "project_id": "imedicine-box-ad374",
+    "storage_bucket": "imedicine-box-ad374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206488291553:android:1e702759364d43df64cfa0",
+        "android_client_info": {
+          "package_name": "com.example.i_medicine_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206488291553-04loc1i8je5fmv9hsle9kkqn4d55b9qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwRmFcL2jGOTRkCJrXrKfMI-vCbWWmc04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206488291553-04loc1i8je5fmv9hsle9kkqn4d55b9qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
